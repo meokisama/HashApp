@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/close.svg</file>
+        <file>img/cryptography.svg</file>
+    </qresource>
+</RCC>
